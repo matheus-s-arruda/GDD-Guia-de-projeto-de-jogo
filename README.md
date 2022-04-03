@@ -39,4 +39,15 @@
 ##### Estilos de arte:
 ##### Como se joga:
 
+### Arte
+##### Temática:
+##### Estilos:
+
+### Conclusão
+##### Créditos:
+##### Desvio da idealização inicial:
+##### Defeitos e mudanças posteriores:
+
+
+
 
