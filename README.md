@@ -7,7 +7,7 @@
 - [Historia](#historia)
 - [Mecânicas](#mecânicas)
 - [Arte](#arte)
-- [Conclusão](#conclusão)
+- [Conclusão do projeto](#conclusão-do-projeto)
 
 ---
 
@@ -102,7 +102,7 @@ Descreva qual e o porque desse estilo, ex:
 - pixel art: _"Escolhido por meio da capacidade do grupo"_
 - instrumental: _"Retrata bem o ambiente buscado"_
 
-## Conclusão
+## Conclusão do projeto
 ##### Créditos:
 Material e ferramentas usadas, membros da equipe, menções a auxilios.
 
