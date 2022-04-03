@@ -5,7 +5,9 @@
 - [Regras do jogo](#regras-do-jogo)
 - [Elementos](#elementos)
 - [Historia](#historia)
-- [Mecânicas]
+- [Mecânicas](#mecânicas)
+- [Arte](#arte)
+- [Conclusão](#conclusão)
 
 ---
 
@@ -27,6 +29,19 @@ Jogos que tem o mesmo principio ou jogabilidade.
 
 ##### proposta:
 Qual o diferencial que esse jogo tem que o torma especial.
+
+##### Como se joga:
+- Quais são os controles
+- Como é a gameplay
+- Qual o nivel de dificuldade do jogo
+
+##### Requisitos:
+- Publico alvo: idade minima estipulada
+- Hardware: requisitos minimos pra rodar o jogo
+- Condição fisica: risco a saude, como epilepsia, ou caso o jogo precise de utilizar membros, como os braços ou andar
+
+##### Plataformas:
+Console, mobile, Pc ou fisico
 
 ## Regras do jogo
 ##### desafios:
@@ -76,20 +91,6 @@ Comportamento do jogo que pode afetar outros comportamentos e que o jogador não
 ex: 
 - ciclo dia e noite
 - clima
-
-## Level Design
-##### Como se joga:
-- Quais são os controles
-- Como é a gameplay
-- Qual o nivel de dificuldade do jogo
-
-##### Requisitos:
-- Publico alvo: idade minima estipulada
-- Hardware: requisitos minimos pra rodar o jogo
-- Condição fisica: risco a saude, como epilepsia, ou caso o jogo precise de utilizar membros, como os braços ou andar
-
-##### Plataformas:
-Console, mobile, Pc ou fisico
 
 ## Arte
 ##### Temática:
