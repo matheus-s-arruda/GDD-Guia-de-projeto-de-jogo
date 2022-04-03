@@ -27,8 +27,12 @@ Base de inspiração, explique também o porque dessa inspiração.
 ##### Semelhantes/concorrencia:
 Jogos que tem o mesmo principio ou jogabilidade.
 
-##### proposta:
+##### Proposta para o mercado de jogos:
 Qual o diferencial que esse jogo tem que o torma especial.
+
+##### Proposta de valor:
+- Custo do deselvolvimento
+- modelo de monetização
 
 ##### Como se joga:
 - Quais são os controles
