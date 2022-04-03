@@ -11,7 +11,7 @@
 
 ---
 
-## Nome
+## Nome do jogo
 ##### Slogan: _"Frase de impacto que anunciará esse jogo"_
 
 ## Definições gerais
