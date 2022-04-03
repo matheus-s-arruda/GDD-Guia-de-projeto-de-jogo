@@ -5,45 +5,45 @@
 ## Nome
 ##### Slogan: _"Frase de impacto que anunciará esse jogo"_
 
-### Definições gerais
+## Definições gerais
 ##### Tags:
 ##### Resumo:
 ##### Referencias:
 ##### Semelhantes/concorrencia:
 ##### proposta:
 
-### Regras do jogo
+## Regras do jogo
 ##### desafios:
 ##### evolução:
 ##### conclusão:
 
-### Elementos
+## Elementos
 ##### Entidades:
 ##### O jogador:
 ##### O mundo:
 ##### encontros/relacionamentos:
 
-### Historia
+## Historia
 ##### Historia de fundo:
 ##### Momento atual no jogo:
 ##### Situação no(s) final(is) do jogo:
 
-### Mecânicas
+## Mecânicas
 ##### Inteligencia artificial:
 ##### Interações do jogador:
 ##### eventos automatizados
 
-### Level Design
+## Level Design
 ##### Requisitos:
 ##### Plataformas:
 ##### Estilos de arte:
 ##### Como se joga:
 
-### Arte
+## Arte
 ##### Temática:
 ##### Estilos:
 
-### Conclusão
+## Conclusão
 ##### Créditos:
 ##### Desvio da idealização inicial:
 ##### Defeitos e mudanças posteriores:
