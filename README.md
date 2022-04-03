@@ -1,5 +1,5 @@
-# GDD-template
-###### modelo de documento de game design em markdown
+# Guia de Documento de Game Design
+###### modelo de GDD em markdown feito com base no que eu acho importante
 
 - [Definições gerais](#definições-gerais)
 - [Regras do jogo](#regras-do-jogo)
