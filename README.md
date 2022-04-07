@@ -1,5 +1,5 @@
 # Guia de Documento de Game Design
-###### modelo de GDD em markdown feito com base no que eu acho importante
+###### modelo de GDD em markdown feito com base no que eu considero importante no design de um jogo.
 
 - [Definições gerais](#definições-gerais)
 - [Regras do jogo](#regras-do-jogo)
