@@ -1,5 +1,5 @@
 # Guia de Documento de Game Design
-[![Generic badge](https://img.shields.io/badge/versão-1.0.1-red.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/versão-1.0.3-red.svg)](https://shields.io/)
 ##### modelo de GDD em markdown feito com base no que eu considero importante no design de um jogo.
 (Veja [mini gdd](mini-gdd.md) para uma versão reduzida)
 
