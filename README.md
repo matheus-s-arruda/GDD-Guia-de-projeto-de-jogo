@@ -25,7 +25,7 @@ Qual sua ambição para a experiência do jogador? qual o objetivo que deseja al
 </br>(O proprosito geral desse topico é orientar a idealização de forma que busque atender esse objetivo)
 
 ##### Resumo:
-Frase ou paragrafo que explique o momento atual do inicio do jogo e a situação que estará no final do jogo.
+Uma frase ou paragrafo curto que explique o momento atual do inicio do jogo, a situação que estará no final do jogo e o meio ou contexto de como alcançar.
 
 ##### Referencias:
 Base de inspiração, explique também o porque dessa inspiração.
