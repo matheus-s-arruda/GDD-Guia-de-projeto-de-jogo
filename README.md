@@ -20,6 +20,9 @@
 ##### Tags:
 Etiquetas sobre o jogo, ex: `2D` `3D` `pixel art` `fps`
 
+##### Ambição:
+Qual sua ambição para a experiência do jogador? qual o objetivo que deseja alcançar com esse jogo? </br>(O cunho dessa questão é referente a experiência) 
+
 ##### Resumo:
 Frase ou paragrafo que explique o momento atual do inicio do jogo e a situação que estará no final do jogo.
 
