@@ -1,8 +1,10 @@
 # Guia de Documento de Game Design
-###### modelo de GDD em markdown feito com base no que eu considero importante no design de um jogo.
-
+[![Generic badge](https://img.shields.io/badge/versão-1.0.1-red.svg)](https://shields.io/)
+##### modelo de GDD em markdown feito com base no que eu considero importante no design de um jogo.
 (Veja [mini gdd](mini-gdd.md) para uma versão reduzida)
 
+---
+### Sumário
 - [Definições gerais](#definições-gerais)
 - [Regras do jogo](#regras-do-jogo)
 - [Elementos](#elementos)
@@ -10,7 +12,6 @@
 - [Mecânicas](#mecânicas)
 - [Arte](#arte)
 - [Conclusão do projeto](#conclusão-do-projeto)
-
 ---
 
 ## Nome do jogo
