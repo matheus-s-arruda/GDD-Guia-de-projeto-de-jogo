@@ -43,7 +43,6 @@ Qual o diferencial que esse jogo tem que o torma especial.
 - modelo de monetização
 
 ##### Como se joga:
-- Quais são os controles
 - Como é a gameplay
 - Qual o nivel de dificuldade do jogo
 
@@ -91,6 +90,14 @@ Qual o objetivo do jogador de acordo com a historia.
 Como é os finais do jogo, e como afeta a historia como um todo.
 
 ## Mecânicas
+##### Controles
+Quais são os controles, qual hardware utiliza, se possivel adicione uma imagem para melhor entendimento.</br>
+Exemplo:
+| ação | tecla |
+| ---- | ----- |
+| mover para cima | A |
+| mover para baixo | S |
+
 ##### Inteligencia artificial:
 Como o jogo se comporta sem a interação do jogador, ou interação indiretamente (ex: campo de visão do inimigo)
 
