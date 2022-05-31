@@ -1,5 +1,5 @@
 # Guia de Documento de Game Design
-[![Generic badge](https://img.shields.io/badge/versão-1.0.3-red.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/versão-1.0.4-red.svg)](https://shields.io/)
 </br></br>
 Modelo de GDD para elaboração de um projeto de jogo.</br>
 Veja também [mini gdd](mini-gdd.md), uma versão reduzida e direta (focada em gameJans).
@@ -23,11 +23,12 @@ Veja também [mini gdd](mini-gdd.md), uma versão reduzida e direta (focada em g
 Etiquetas sobre o jogo, ex: `2D` `3D` `pixel art` `fps`
 
 ##### Ambição:
-Qual sua ambição para a experiência do jogador? qual o objetivo que deseja alcançar com esse jogo? </br>(O cunho dessa questão é referente a experiência)
-</br>(O proprosito geral desse topico é orientar a idealização de forma que busque atender esse objetivo)
+Qual sua ambição para a experiência do jogador? qual o objetivo que deseja alcançar com esse jogo? 
+</br>(O proprosito geral desse topico é servir de pré-requisito e servir de orientação na idealização, de forma que busque sempre atender esse objetivo)
 
 ##### Resumo:
 Uma frase ou paragrafo curto que explique o momento atual do inicio do jogo, a situação que estará no final do jogo e o meio ou contexto de como alcançar.
+<br>(Requisito ou foco geral do projeto, a progressão do jogo não deve sair deste contexto)
 
 ##### Referencias:
 Base de inspiração, explique também o porque dessa inspiração.
