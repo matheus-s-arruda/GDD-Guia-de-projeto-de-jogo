@@ -1,5 +1,5 @@
 # Guia de Documento de Game Design
-[![Generic badge](https://img.shields.io/badge/versão-1.0.4-red.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/versão-1.0.5-red.svg)](https://shields.io/)
 </br></br>
 Modelo de GDD para elaboração de um projeto de jogo.</br>
 Veja também [mini gdd](mini-gdd.md), uma versão reduzida e direta (focada em gameJans).
@@ -76,6 +76,9 @@ Oque é, ou quem é o jogador dentro do jogo.
 
 ##### encontros/relacionamentos:
 Como o jogador interage com as entidades, como as entidades interagem entre si(isso é sobre o contexto, não sobre i.a ou comportamento)
+
+##### Pontuações:
+Há pontuações? Há coletáveis ou conquistas? 
 
 ## Historia
 (Se tiver historia, claro)
