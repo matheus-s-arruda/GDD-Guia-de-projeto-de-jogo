@@ -95,7 +95,7 @@ Qual o objetivo do jogador de acordo com a historia.
 Como é os finais do jogo, e como afeta a historia como um todo.
 
 #### Encontros:
-Eventos durante o jogo que acontece coisas e que contribuem pra avançar na trama.
+Eventos durante o jogo que contribuem pra avançar na trama.
 
 - Nome do acontecimento _(Ex: dialogo com NPC Fulano)_
 - Condição para acontecer _(Ex: jogador entra num vilarejo pela primeira vez)_
