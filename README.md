@@ -81,7 +81,8 @@ Como o jogador interage com as entidades, como as entidades interagem entre si(i
 Há pontuações? Há coletáveis ou conquistas? 
 
 ## Historia
-(Se tiver historia, claro)
+#### Lore: (Se tiver historia, claro.)
+Toda a trama do teu jogo em detalhes.
 
 ##### Historia de fundo:
 qual a historia que se passa antes do inicio do jogo
@@ -92,6 +93,14 @@ Qual o objetivo do jogador de acordo com a historia.
 
 ##### Situação no(s) final(is) do jogo:
 Como é os finais do jogo, e como afeta a historia como um todo.
+
+#### Encontros:
+Eventos durante o jogo que acontece coisas e que contribuem pra avançar na trama.
+
+- Nome do acontecimento _(Ex: dialogo com NPC Fulano)_
+- Condição para acontecer _(Ex: jogador entra num vilarejo pela primeira vez)_
+- Resultado do acontecimento _(Ex: Jogador ganha uma missão)_
+
 
 ## Mecânicas
 ##### Controles
