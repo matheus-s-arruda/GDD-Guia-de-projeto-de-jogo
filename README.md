@@ -1,5 +1,5 @@
 # Guia de Documento de Game Design
-[![Generic badge](https://img.shields.io/badge/versão-1.1.0-red.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/versão-1.1.1-red.svg)](https://shields.io/)
 </br></br>
 Modelo de GDD para elaboração de um projeto de jogo.</br>
 Veja também [mini gdd](mini-gdd.md), uma versão reduzida e direta (focada em gameJans).
@@ -103,10 +103,9 @@ Como é os finais do jogo, e como afeta a historia como um todo.
 #### Encontros:
 Eventos durante o jogo que contribuem pra avançar na trama.
 
-- Nome do acontecimento _(Ex: dialogo com NPC Fulano)_
-- Condição para acontecer _(Ex: jogador entra num vilarejo pela primeira vez)_
-- Resultado do acontecimento _(Ex: Jogador ganha uma missão)_
-
+| Nome do acontecimento | Condição para acontecer | Resultado do acontecimento |
+| --------------------- | ----------------------- | -------------------------- |
+| _Dialogo com NPC Fulano_ | _O jogador entra no vilarejo pela primeira vez_ | _O Jogador ganha a missao "salvar a princesa"_ |
 
 ## Mecânicas
 ##### Controles
