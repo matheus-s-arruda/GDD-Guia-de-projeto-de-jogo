@@ -1,8 +1,14 @@
 # Guia de Documento de Game Design
-[![Generic badge](https://img.shields.io/badge/versão-1.1.1-red.svg)](https://shields.io/)
-</br></br>
-Modelo de GDD para elaboração de um projeto de jogo.</br>
+[![Generic badge](https://img.shields.io/badge/versão-1.1.2-red.svg)](https://shields.io/)
+<br>
+
+Modelo de GDD para elaboração de um projeto de jogo.<br>
 Veja também [mini gdd](mini-gdd.md), uma versão reduzida e direta (focada em gameJans).
+<br>
+
+Confira esse [termo de abertura de projeto de jogo](Plano_de_abertura_de_projeto_de_jogo.md), isso pode te ajudar a decidir se vale a pena iniciar.
+<br><br>
+
 
 ## Como utilizar:
 A ideia de elaborar essa documentação pra teu jogo não segue uma orientação em serie, o propósito não é terminar todos os tópicos para começar o projeto, mas utilizar esse planejamento para organizar a elaboração do projeto final, utilizando de mudanças, remoções e readaptações de definições "propostas" aqui.
